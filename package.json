@@ -1,7 +1,7 @@
 {
   "name": "ambient-light-sensor",
   "version": "1.0.0",
-  "description": "",
+  "description": "Access the ambient light sensor on a Macbook.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
